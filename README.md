@@ -17,4 +17,3 @@ The dashboard contains interactive visualizations, KPI cards, filters, and navig
 
 
 <img width="4800" height="4390" alt="Power_BI_Healthcare" src="https://github.com/user-attachments/assets/2557363f-eb13-440f-bdf3-7ea5fcae8520" />
-\
