@@ -14,3 +14,7 @@ The dashboard contains interactive visualizations, KPI cards, filters, and navig
 - Analyze healthcare billing and insurance information.
 - Explore medication usage and medical test results.
 - Create interactive dashboards for data-driven insights.
+
+
+<img width="4800" height="4390" alt="Power_BI_Healthcare" src="https://github.com/user-attachments/assets/2557363f-eb13-440f-bdf3-7ea5fcae8520" />
+\
